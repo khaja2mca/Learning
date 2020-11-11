@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 28A5-78BA
+
+ Directory of C:\Users\Dell\Desktop\JavaKhaja
+
+11-11-2020  11:03    <DIR>          .
+11-11-2020  11:03    <DIR>          ..
+11-11-2020  09:44                52 index.html
+11-11-2020  10:43               923 JavaDemo.class
+10-11-2020  21:15               188 JavaDemo.java
+11-11-2020  11:02               903 JavaGit.class
+11-11-2020  11:02               176 JavaGit.java
+11-11-2020  09:44                49 khaja.txt
+11-11-2020  11:03                 0 SAK.txt
+11-11-2020  10:57               588 yashar.txt
+               8 File(s)          2,879 bytes
+               2 Dir(s)  183,054,577,664 bytes free
